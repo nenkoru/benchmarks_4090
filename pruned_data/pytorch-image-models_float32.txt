@@ -1,3 +1,4 @@
+# python benchmark.py --precision float16 --device cuda --model all
 Running inference benchmark on bat_resnext26ts.ch_in1k for 40 steps w/ input size (3, 256, 256) and batch size 256.
 Inference benchmark of bat_resnext26ts.ch_in1k done. 2411.96 samples/sec, 106.11 ms/step
 Running train benchmark on bat_resnext26ts.ch_in1k for 40 steps w/ input size (3, 256, 256) and batch size 128.
