@@ -21,3 +21,5 @@ Build cuda_12.1.r12.1/compiler.32688072_0
 https://github.com/huggingface/pytorch-image-models/tree/394e8145551191ae60f672556936314a20232a35
 https://github.com/pytorch/examples/tree/7f7c222b355abd19ba03a7d4ba90f1092973cdbc
 ```
+
+[Reddit post acompanying this repo](https://www.reddit.com/r/MachineLearning/comments/14yw72v/r_nvidia_rtx_4090_ml_benchmarks_under_qemukvm/)
